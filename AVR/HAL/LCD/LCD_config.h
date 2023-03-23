@@ -2,7 +2,7 @@
  * LCD_config.h
  *
  *  Created on: Feb 5, 2023
- *      Author: aya_enan
+ *      Author: AgAmIA
  */
 
 #ifndef LCD_LCD_CONFIG_H_
