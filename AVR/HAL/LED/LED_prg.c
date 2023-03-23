@@ -2,7 +2,7 @@
  * LED_prg.c
  *
  *  Created on: Jan 31, 2023
- *      Author: aya_enan
+ *      Author: AgAmIa
  */
 #include "STD_TYPES.h"
 #include "Dio_int.h"
