@@ -2,7 +2,7 @@
  * BIT_MATH.h
  *
  *  Created on: Jan 30, 2023
- *  Author: Ahmed Tarek Youssef
+ *  Author: AgAmIa
  */
 
 #ifndef BIT_MATH_H_
