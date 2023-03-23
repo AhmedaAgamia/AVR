@@ -2,7 +2,7 @@
  * SSD_prg.c
  *
  *  Created on: Feb 1, 2023
- *      Author: aya_enan
+ *      Author: AgAmIa
  */
 #include <avr/delay.h>
 #include "STD_TYPES.h"
