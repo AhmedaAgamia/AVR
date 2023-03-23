@@ -2,7 +2,7 @@
  * STD_TYPES.h
  *
  *  Created on: Jan 30, 2023
- *  Author: Ahmed Tarek Youssef
+ *  Author: AgAmIa
  */
 
 #ifndef STD_TYPES_H_
