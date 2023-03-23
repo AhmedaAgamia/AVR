@@ -2,7 +2,7 @@
  * SSD_config.h
  *
  *  Created on: Feb 1, 2023
- *      Author: aya_enan
+ *      Author: AgAmIa
  */
 
 #ifndef SSD_SSD_CONFIG_H_
