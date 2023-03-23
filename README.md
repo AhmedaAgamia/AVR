@@ -1,2 +1,2 @@
 # NTI
-drivers and some projects for ARM and AVR 
+drivers and some projects for AVR 
